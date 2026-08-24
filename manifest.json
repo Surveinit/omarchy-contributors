@@ -4,12 +4,11 @@
   "name": "Omarchy contributors",
   "version": "0.1.0",
   "author": "Surveinit",
-  "description": "A cinematic tribute to the lovely people who contributed to Omarchy",
+  "description": "Omarchy contributors",
   "kinds": [
     "panel"
   ],
   "entryPoints": {
     "panel": "Overlay.qml"
-  },
-  "keepLoaded": true
+  }
 }
