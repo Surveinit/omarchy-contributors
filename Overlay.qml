@@ -1,108 +1,48 @@
-#!/usr/bin/env bash
-set -euo pipefail
+import QtQuick
+import Quickshell
 
-REPO="basecamp/omarchy"
-OUTPUT="data/contributors.json"
+FloatingWindow {
+    id: window
 
-mkdir -p "$(dirname "$OUTPUT")"
+    // MUST BE DECLARED FOR OMARCHY LOADER INJECTION
+    property var shell: null
+    property var manifest: null
+    property var omarchyPath: null
+    property var barWidgetRegistry: null
+    property var pluginRegistry: null
 
-tmp="$(mktemp)"
-contributors_tmp="$(mktemp)"
-profiles_tmp="${contributors_tmp}.profiles"
+    visible: false
+    title: "Omarchy Contributors"
+    color: "#0f0f11"
 
-trap 'rm -f "$tmp" "$contributors_tmp" "$profiles_tmp"' EXIT
+    implicitWidth: 1000
+    implicitHeight: 700
 
-headers=(
-  --header "Accept: application/vnd.github+json"
-  --header "X-GitHub-Api-Version: 2026-03-10"
-)
+    Component.onCompleted: {
+        console.log("=== CONTRIBUTORS COMPONENT LOADED ===")
+    }
 
-if [[ -n "${GITHUB_TOKEN:-}" ]]; then
-  headers+=(--header "Authorization: Bearer ${GITHUB_TOKEN}")
-fi
+    function open(payloadJson) {
+        console.log("=== CONTRIBUTORS OPEN CALLED ===")
+        window.visible = true
+    }
 
-echo "Fetching contributors from ${REPO}..."
+    function close() {
+        console.log("=== CONTRIBUTORS CLOSE CALLED ===")
+        window.visible = false
+    }
 
-page=1
+    onVisibleChanged: {
+        console.log("=== WINDOW VISIBLE:", visible, "===")
+        if (!visible && window.shell && typeof window.shell.hide === "function") {
+            window.shell.hide("surve.omarchy-contributors")
+        }
+    }
 
-while true; do
-  response="$(
-    curl --fail --silent --show-error --location \
-      "${headers[@]}" \
-      "https://api.github.com/repos/${REPO}/contributors?per_page=100&page=${page}"
-  )"
-
-  count="$(jq 'length' <<<"$response")"
-
-  if [[ "$count" -eq 0 ]]; then
-    break
-  fi
-
-  jq -c '.[] | select(.type == "User")' <<<"$response" >>"$contributors_tmp"
-
-  echo "Fetched page ${page}: ${count} contributors"
-
-  if [[ "$count" -lt 100 ]]; then
-    break
-  fi
-
-  page=$((page + 1))
-done
-
-echo "Enriching contributor profiles..."
-
-contributors_json="$(jq -s '.' "$contributors_tmp")"
-
-if [[ -n "${GITHUB_TOKEN:-}" ]]; then
-  export GITHUB_TOKEN
-
-  jq -r '.[].login' <<<"$contributors_json" |
-    xargs -P 8 -I {} bash -c '
-      login="$1"
-
-      curl --fail --silent --show-error --location \
-        --header "Accept: application/vnd.github+json" \
-        --header "Authorization: Bearer ${GITHUB_TOKEN}" \
-        --header "X-GitHub-Api-Version: 2026-03-10" \
-        "https://api.github.com/users/${login}" |
-      jq -c "{login: .login, name: .name}"
-    ' _ {} >"$profiles_tmp"
-else
-  echo "GITHUB_TOKEN not available; using login as display name."
-
-  jq -c '.[] | {login, name: .login}' <<<"$contributors_json" \
-    >"$profiles_tmp"
-fi
-
-jq -n \
-  --arg repo "$REPO" \
-  --argjson contributors "$contributors_json" \
-  --slurpfile profiles "$profiles_tmp" '
-  {
-    generatedAt: (now | todateiso8601),
-    repository: $repo,
-    contributors: (
-      $contributors
-      | map({
-          login,
-          avatarUrl: .avatar_url,
-          profileUrl: .html_url,
-          commits: .contributions
-        })
-      | map(
-          . as $contributor
-          | ($profiles | map(select(.login == $contributor.login)) | .[0]) as $profile
-          | . + {
-              name: ($profile.name // $contributor.login)
-            }
-        )
-      | sort_by(-.commits, .login)
-    )
-  }
-' >"$tmp"
-
-mv "$tmp" "$OUTPUT"
-
-echo
-echo "Updated $OUTPUT"
-echo "Contributors: $(jq '.contributors | length' "$OUTPUT")"
+    Text {
+        anchors.centerIn: parent
+        text: "Omarchy Contributors"
+        color: "white"
+        font.pixelSize: 32
+    }
+}

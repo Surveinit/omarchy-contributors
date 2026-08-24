@@ -6,10 +6,10 @@
   "author": "Surveinit",
   "description": "A cinematic tribute to the lovely people who contributed to Omarchy",
   "kinds": [
-    "overlay"
+    "panel"
   ],
-  "keepLoaded": true,
   "entryPoints": {
-    "overlay": "Overlay.qml"
-  }
+    "panel": "Overlay.qml"
+  },
+  "keepLoaded": true
 }
