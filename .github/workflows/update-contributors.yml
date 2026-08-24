@@ -19,6 +19,17 @@ jobs:
       - name: Update contributor data
         run: ./scripts/update-contributors.sh
 
+      - name: Debug contributor profile
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl --fail --silent --show-error \
+            --header "Accept: application/vnd.github+json" \
+            --header "Authorization: Bearer $GH_TOKEN" \
+            --header "X-GitHub-Api-Version: 2026-03-10" \
+            "https://api.github.com/users/dhh" \
+            | jq '{login, name, html_url}'
+
       - name: Commit updated data
         run: |
           if git diff --quiet -- data/contributors.json; then
