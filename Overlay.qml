@@ -1,63 +1,108 @@
-import Quickshell
-import Quickshell.Wayland
-import QtQuick
+#!/usr/bin/env bash
+set -euo pipefail
 
-Item {
-  id: root
+REPO="basecamp/omarchy"
+OUTPUT="data/contributors.json"
 
-  property bool opened: false
+mkdir -p "$(dirname "$OUTPUT")"
 
-  function open(payloadJson){
-    root.opened = true
-    Qt.callLater(function(){
-      keyCatcher.forceActiveFocus()
-    })
+tmp="$(mktemp)"
+contributors_tmp="$(mktemp)"
+profiles_tmp="${contributors_tmp}.profiles"
+
+trap 'rm -f "$tmp" "$contributors_tmp" "$profiles_tmp"' EXIT
+
+headers=(
+  --header "Accept: application/vnd.github+json"
+  --header "X-GitHub-Api-Version: 2026-03-10"
+)
+
+if [[ -n "${GITHUB_TOKEN:-}" ]]; then
+  headers+=(--header "Authorization: Bearer ${GITHUB_TOKEN}")
+fi
+
+echo "Fetching contributors from ${REPO}..."
+
+page=1
+
+while true; do
+  response="$(
+    curl --fail --silent --show-error --location \
+      "${headers[@]}" \
+      "https://api.github.com/repos/${REPO}/contributors?per_page=100&page=${page}"
+  )"
+
+  count="$(jq 'length' <<<"$response")"
+
+  if [[ "$count" -eq 0 ]]; then
+    break
+  fi
+
+  jq -c '.[] | select(.type == "User")' <<<"$response" >>"$contributors_tmp"
+
+  echo "Fetched page ${page}: ${count} contributors"
+
+  if [[ "$count" -lt 100 ]]; then
+    break
+  fi
+
+  page=$((page + 1))
+done
+
+echo "Enriching contributor profiles..."
+
+contributors_json="$(jq -s '.' "$contributors_tmp")"
+
+if [[ -n "${GITHUB_TOKEN:-}" ]]; then
+  export GITHUB_TOKEN
+
+  jq -r '.[].login' <<<"$contributors_json" |
+    xargs -P 8 -I {} bash -c '
+      login="$1"
+
+      curl --fail --silent --show-error --location \
+        --header "Accept: application/vnd.github+json" \
+        --header "Authorization: Bearer ${GITHUB_TOKEN}" \
+        --header "X-GitHub-Api-Version: 2026-03-10" \
+        "https://api.github.com/users/${login}" |
+      jq -c "{login: .login, name: .name}"
+    ' _ {} >"$profiles_tmp"
+else
+  echo "GITHUB_TOKEN not available; using login as display name."
+
+  jq -c '.[] | {login, name: .login}' <<<"$contributors_json" \
+    >"$profiles_tmp"
+fi
+
+jq -n \
+  --arg repo "$REPO" \
+  --argjson contributors "$contributors_json" \
+  --slurpfile profiles "$profiles_tmp" '
+  {
+    generatedAt: (now | todateiso8601),
+    repository: $repo,
+    contributors: (
+      $contributors
+      | map({
+          login,
+          avatarUrl: .avatar_url,
+          profileUrl: .html_url,
+          commits: .contributions
+        })
+      | map(
+          . as $contributor
+          | ($profiles | map(select(.login == $contributor.login)) | .[0]) as $profile
+          | . + {
+              name: ($profile.name // $contributor.login)
+            }
+        )
+      | sort_by(-.commits, .login)
+    )
   }
+' >"$tmp"
 
-  function close(){
-    root.opened = false
-  }
+mv "$tmp" "$OUTPUT"
 
-  PanelWindow{
-    id: panel
-
-    visible: root.opened
-
-    anchors {
-      top: true
-      bottom: true
-      left: true
-      right: true
-    }
-
-    color: "black"
-
-    WlrLayershell.namespace: "surve-omarchy-contributors"
-    WlrLayershell.layer: WlrLayer.Overlay
-    WlrLayershell.keyboardFocus: WlrKeyboardFocus.Exclusive
-
-    exclusionMode: ExclusionMode.Ignore
-
-    Item {
-      id: keyCatcher
-
-      anchors.fill: parent
-      focus: true
-
-      Keys.onPressed: function(event){
-        if(event.key === Qt.Key_Escape){
-          root.close()
-          event.accepted = true
-        }
-      }
-    }
-
-    Text {
-      anchors.centerIn: parent
-
-      text: "OMARCHY CONTRIBUTORS"
-      color: "white"
-      font.pixelSize: 48
-    }
-  }
-}
+echo
+echo "Updated $OUTPUT"
+echo "Contributors: $(jq '.contributors | length' "$OUTPUT")"
