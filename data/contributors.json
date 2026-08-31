@@ -1,24 +1,30 @@
 {
-  "generatedAt": "2026-08-30T09:57:59Z",
+  "generatedAt": "2026-08-31T10:54:29Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4530
+      "commits": 4533
     },
     {
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 728
+      "commits": 759
     },
     {
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
       "commits": 32
+    },
+    {
+      "login": "acrogenesis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1312687?v=4",
+      "profileUrl": "https://github.com/acrogenesis",
+      "commits": 23
     },
     {
       "login": "bjarneo",
@@ -72,12 +78,6 @@
       "login": "NicolasDorier",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3020646?v=4",
       "profileUrl": "https://github.com/NicolasDorier",
-      "commits": 9
-    },
-    {
-      "login": "acrogenesis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1312687?v=4",
-      "profileUrl": "https://github.com/acrogenesis",
       "commits": 9
     },
     {
@@ -945,6 +945,12 @@
       "commits": 1
     },
     {
+      "login": "Adolanium",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94890352?v=4",
+      "profileUrl": "https://github.com/Adolanium",
+      "commits": 1
+    },
+    {
       "login": "Alex23rodriguez",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22017085?v=4",
       "profileUrl": "https://github.com/Alex23rodriguez",
@@ -1557,12 +1563,6 @@
       "commits": 1
     },
     {
-      "login": "cluah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122648346?v=4",
-      "profileUrl": "https://github.com/cluah",
-      "commits": 1
-    },
-    {
       "login": "coolbotic",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19354426?v=4",
       "profileUrl": "https://github.com/coolbotic",
@@ -1611,6 +1611,12 @@
       "commits": 1
     },
     {
+      "login": "d34ndev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/425200?v=4",
+      "profileUrl": "https://github.com/d34ndev",
+      "commits": 1
+    },
+    {
       "login": "da-maltsev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56772947?v=4",
       "profileUrl": "https://github.com/da-maltsev",
@@ -1650,12 +1656,6 @@
       "login": "dcchambers",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3454131?v=4",
       "profileUrl": "https://github.com/dcchambers",
-      "commits": 1
-    },
-    {
-      "login": "deanpcmad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/425200?v=4",
-      "profileUrl": "https://github.com/deanpcmad",
       "commits": 1
     },
     {
