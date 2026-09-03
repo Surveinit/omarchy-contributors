@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T08:48:46Z",
+  "generatedAt": "2026-09-03T08:57:53Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
@@ -27,6 +27,12 @@
       "commits": 23
     },
     {
+      "login": "spencerbull",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7035687?v=4",
+      "profileUrl": "https://github.com/spencerbull",
+      "commits": 20
+    },
+    {
       "login": "bjarneo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "profileUrl": "https://github.com/bjarneo",
@@ -49,12 +55,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/77543049?v=4",
       "profileUrl": "https://github.com/tahayvr",
       "commits": 19
-    },
-    {
-      "login": "spencerbull",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7035687?v=4",
-      "profileUrl": "https://github.com/spencerbull",
-      "commits": 13
     },
     {
       "login": "alansikora",
@@ -1413,6 +1413,12 @@
       "commits": 1
     },
     {
+      "login": "barmstrong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25322?v=4",
+      "profileUrl": "https://github.com/barmstrong",
+      "commits": 1
+    },
+    {
       "login": "bastnic",
       "avatarUrl": "https://avatars.githubusercontent.com/u/84887?v=4",
       "profileUrl": "https://github.com/bastnic",
@@ -2622,12 +2628,6 @@
       "login": "woopstar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2997782?v=4",
       "profileUrl": "https://github.com/woopstar",
-      "commits": 1
-    },
-    {
-      "login": "xadcv",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/343821?v=4",
-      "profileUrl": "https://github.com/xadcv",
       "commits": 1
     },
     {
