@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-09-07T09:24:30Z",
+  "generatedAt": "2026-09-08T08:54:07Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4553
+      "commits": 4556
     },
     {
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 780
-    },
-    {
-      "login": "omarchybot",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
-      "profileUrl": "https://github.com/omarchybot",
-      "commits": 32
+      "commits": 791
     },
     {
       "login": "spencerbull",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7035687?v=4",
       "profileUrl": "https://github.com/spencerbull",
+      "commits": 37
+    },
+    {
+      "login": "omarchybot",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
+      "profileUrl": "https://github.com/omarchybot",
       "commits": 32
     },
     {
@@ -36,7 +36,7 @@
       "login": "bjarneo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "profileUrl": "https://github.com/bjarneo",
-      "commits": 19
+      "commits": 21
     },
     {
       "login": "pomartel",
@@ -1290,12 +1290,6 @@
       "login": "Woosah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5823220?v=4",
       "profileUrl": "https://github.com/Woosah",
-      "commits": 1
-    },
-    {
-      "login": "Zeus-Deus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100132710?v=4",
-      "profileUrl": "https://github.com/Zeus-Deus",
       "commits": 1
     },
     {
