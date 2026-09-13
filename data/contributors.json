@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-12T08:39:54Z",
+  "generatedAt": "2026-09-13T09:37:07Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4560
+      "commits": 4561
     },
     {
       "login": "ryanrhughes",
