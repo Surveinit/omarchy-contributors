@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:20:25Z",
+  "generatedAt": "2026-09-23T09:20:41Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
@@ -12,7 +12,7 @@
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 811
+      "commits": 813
     },
     {
       "login": "spencerbull",
@@ -24,7 +24,7 @@
       "login": "bjarneo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "profileUrl": "https://github.com/bjarneo",
-      "commits": 32
+      "commits": 33
     },
     {
       "login": "omarchybot",
@@ -60,7 +60,7 @@
       "login": "ErikMelton",
       "avatarUrl": "https://avatars.githubusercontent.com/u/798237?v=4",
       "profileUrl": "https://github.com/ErikMelton",
-      "commits": 13
+      "commits": 18
     },
     {
       "login": "alansikora",
@@ -789,6 +789,12 @@
       "commits": 2
     },
     {
+      "login": "lalvarezt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16566531?v=4",
+      "profileUrl": "https://github.com/lalvarezt",
+      "commits": 2
+    },
+    {
       "login": "leonhazen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/403745?v=4",
       "profileUrl": "https://github.com/leonhazen",
@@ -1284,18 +1290,6 @@
       "login": "Vtorrealba",
       "avatarUrl": "https://avatars.githubusercontent.com/u/102916964?v=4",
       "profileUrl": "https://github.com/Vtorrealba",
-      "commits": 1
-    },
-    {
-      "login": "WToa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6956294?v=4",
-      "profileUrl": "https://github.com/WToa",
-      "commits": 1
-    },
-    {
-      "login": "Whamp",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1115485?v=4",
-      "profileUrl": "https://github.com/Whamp",
       "commits": 1
     },
     {
@@ -2604,6 +2598,12 @@
       "login": "vivek7405",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24492244?v=4",
       "profileUrl": "https://github.com/vivek7405",
+      "commits": 1
+    },
+    {
+      "login": "vjohansen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/634765?v=4",
+      "profileUrl": "https://github.com/vjohansen",
       "commits": 1
     },
     {
