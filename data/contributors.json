@@ -1,24 +1,30 @@
 {
-  "generatedAt": "2026-09-25T09:39:16Z",
+  "generatedAt": "2026-09-26T09:23:06Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4617
+      "commits": 4620
     },
     {
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 815
+      "commits": 818
     },
     {
       "login": "spencerbull",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7035687?v=4",
       "profileUrl": "https://github.com/spencerbull",
       "commits": 63
+    },
+    {
+      "login": "AFOliveira",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/149520572?v=4",
+      "profileUrl": "https://github.com/AFOliveira",
+      "commits": 45
     },
     {
       "login": "bjarneo",
@@ -39,6 +45,12 @@
       "commits": 28
     },
     {
+      "login": "ErikMelton",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/798237?v=4",
+      "profileUrl": "https://github.com/ErikMelton",
+      "commits": 21
+    },
+    {
       "login": "pomartel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26983?v=4",
       "profileUrl": "https://github.com/pomartel",
@@ -55,12 +67,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/77543049?v=4",
       "profileUrl": "https://github.com/tahayvr",
       "commits": 19
-    },
-    {
-      "login": "ErikMelton",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/798237?v=4",
-      "profileUrl": "https://github.com/ErikMelton",
-      "commits": 18
     },
     {
       "login": "alansikora",
@@ -139,12 +145,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/290616?v=4",
       "profileUrl": "https://github.com/robzolkos",
       "commits": 7
-    },
-    {
-      "login": "AFOliveira",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/149520572?v=4",
-      "profileUrl": "https://github.com/AFOliveira",
-      "commits": 6
     },
     {
       "login": "Adolanium",
