@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T10:43:49Z",
+  "generatedAt": "2026-09-30T10:31:44Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
@@ -30,7 +30,7 @@
       "login": "bjarneo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "profileUrl": "https://github.com/bjarneo",
-      "commits": 39
+      "commits": 41
     },
     {
       "login": "omarchybot",
@@ -321,12 +321,6 @@
       "commits": 4
     },
     {
-      "login": "heyssh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/291248493?v=4",
-      "profileUrl": "https://github.com/heyssh",
-      "commits": 4
-    },
-    {
       "login": "hjanuschka",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2891702?v=4",
       "profileUrl": "https://github.com/hjanuschka",
@@ -336,6 +330,12 @@
       "login": "icehunt",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26238722?v=4",
       "profileUrl": "https://github.com/icehunt",
+      "commits": 4
+    },
+    {
+      "login": "itscallssh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/291248493?v=4",
+      "profileUrl": "https://github.com/itscallssh",
       "commits": 4
     },
     {
