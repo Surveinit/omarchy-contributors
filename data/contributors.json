@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-02T10:32:41Z",
+  "generatedAt": "2026-10-03T09:54:06Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4657
+      "commits": 4658
     },
     {
       "login": "ryanrhughes",
@@ -18,7 +18,7 @@
       "login": "spencerbull",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7035687?v=4",
       "profileUrl": "https://github.com/spencerbull",
-      "commits": 66
+      "commits": 81
     },
     {
       "login": "AFOliveira",
@@ -36,7 +36,7 @@
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
-      "commits": 32
+      "commits": 34
     },
     {
       "login": "acrogenesis",
@@ -1947,12 +1947,6 @@
       "commits": 1
     },
     {
-      "login": "jelenv",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10000498?v=4",
-      "profileUrl": "https://github.com/jelenv",
-      "commits": 1
-    },
-    {
       "login": "jitendradara12",
       "avatarUrl": "https://avatars.githubusercontent.com/u/93462792?v=4",
       "profileUrl": "https://github.com/jitendradara12",
@@ -1974,6 +1968,12 @@
       "login": "jmwall",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2609070?v=4",
       "profileUrl": "https://github.com/jmwall",
+      "commits": 1
+    },
+    {
+      "login": "joewinke",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/797297?v=4",
+      "profileUrl": "https://github.com/joewinke",
       "commits": 1
     },
     {
@@ -2610,12 +2610,6 @@
       "login": "vjohansen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/634765?v=4",
       "profileUrl": "https://github.com/vjohansen",
-      "commits": 1
-    },
-    {
-      "login": "vlofgren",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1004095?v=4",
-      "profileUrl": "https://github.com/vlofgren",
       "commits": 1
     },
     {
