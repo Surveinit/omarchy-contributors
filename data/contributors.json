@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-03T09:54:06Z",
+  "generatedAt": "2026-10-04T10:36:35Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4658
+      "commits": 4660
     },
     {
       "login": "ryanrhughes",
@@ -30,13 +30,13 @@
       "login": "bjarneo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "profileUrl": "https://github.com/bjarneo",
-      "commits": 41
+      "commits": 44
     },
     {
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
-      "commits": 34
+      "commits": 38
     },
     {
       "login": "acrogenesis",
@@ -1308,12 +1308,6 @@
       "login": "Trippie-Redd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/179209770?v=4",
       "profileUrl": "https://github.com/Trippie-Redd",
-      "commits": 1
-    },
-    {
-      "login": "Woosah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5823220?v=4",
-      "profileUrl": "https://github.com/Woosah",
       "commits": 1
     },
     {
@@ -2604,12 +2598,6 @@
       "login": "virtualabishek",
       "avatarUrl": "https://avatars.githubusercontent.com/u/88627841?v=4",
       "profileUrl": "https://github.com/virtualabishek",
-      "commits": 1
-    },
-    {
-      "login": "vjohansen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/634765?v=4",
-      "profileUrl": "https://github.com/vjohansen",
       "commits": 1
     },
     {
