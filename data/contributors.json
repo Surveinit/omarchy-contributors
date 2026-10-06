@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-05T11:34:00Z",
+  "generatedAt": "2026-10-06T11:19:16Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4681
+      "commits": 4682
     },
     {
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 818
+      "commits": 820
     },
     {
       "login": "spencerbull",
@@ -489,12 +489,6 @@
       "commits": 3
     },
     {
-      "login": "imanubdesigner",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/146331681?v=4",
-      "profileUrl": "https://github.com/imanubdesigner",
-      "commits": 3
-    },
-    {
       "login": "ivanskodje",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6776092?v=4",
       "profileUrl": "https://github.com/ivanskodje",
@@ -672,6 +666,12 @@
       "login": "SoAp9035",
       "avatarUrl": "https://avatars.githubusercontent.com/u/82338831?v=4",
       "profileUrl": "https://github.com/SoAp9035",
+      "commits": 2
+    },
+    {
+      "login": "SorenHJohansen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/134231457?v=4",
+      "profileUrl": "https://github.com/SorenHJohansen",
       "commits": 2
     },
     {
@@ -1827,12 +1827,6 @@
       "commits": 1
     },
     {
-      "login": "godlewski",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20522662?v=4",
-      "profileUrl": "https://github.com/godlewski",
-      "commits": 1
-    },
-    {
       "login": "grantwiley",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27320472?v=4",
       "profileUrl": "https://github.com/grantwiley",
@@ -2199,6 +2193,12 @@
       "commits": 1
     },
     {
+      "login": "maxcroy1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16827693?v=4",
+      "profileUrl": "https://github.com/maxcroy1",
+      "commits": 1
+    },
+    {
       "login": "meerzulee",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17146298?v=4",
       "profileUrl": "https://github.com/meerzulee",
@@ -2538,12 +2538,6 @@
       "login": "shreyansh-malviya",
       "avatarUrl": "https://avatars.githubusercontent.com/u/90462837?v=4",
       "profileUrl": "https://github.com/shreyansh-malviya",
-      "commits": 1
-    },
-    {
-      "login": "slamotte",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/255800?v=4",
-      "profileUrl": "https://github.com/slamotte",
       "commits": 1
     },
     {
