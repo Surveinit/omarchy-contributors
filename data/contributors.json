@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-06T11:19:16Z",
+  "generatedAt": "2026-10-07T11:07:07Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4682
+      "commits": 4685
     },
     {
       "login": "ryanrhughes",
@@ -18,7 +18,7 @@
       "login": "spencerbull",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7035687?v=4",
       "profileUrl": "https://github.com/spencerbull",
-      "commits": 81
+      "commits": 93
     },
     {
       "login": "AFOliveira",
@@ -2562,12 +2562,6 @@
       "login": "stefanoverna",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51573?v=4",
       "profileUrl": "https://github.com/stefanoverna",
-      "commits": 1
-    },
-    {
-      "login": "stephentaylor-com",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1667031?v=4",
-      "profileUrl": "https://github.com/stephentaylor-com",
       "commits": 1
     },
     {
