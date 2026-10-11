@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-10T10:38:55Z",
+  "generatedAt": "2026-10-11T10:51:37Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4704
+      "commits": 4724
     },
     {
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 820
+      "commits": 821
     },
     {
       "login": "spencerbull",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7035687?v=4",
       "profileUrl": "https://github.com/spencerbull",
-      "commits": 93
+      "commits": 96
     },
     {
       "login": "AFOliveira",
@@ -30,7 +30,7 @@
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
-      "commits": 51
+      "commits": 52
     },
     {
       "login": "acrogenesis",
@@ -453,6 +453,12 @@
       "commits": 3
     },
     {
+      "login": "brianblakely",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/401422?v=4",
+      "profileUrl": "https://github.com/brianblakely",
+      "commits": 3
+    },
+    {
       "login": "bvdwalt",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38956787?v=4",
       "profileUrl": "https://github.com/bvdwalt",
@@ -675,6 +681,12 @@
       "commits": 2
     },
     {
+      "login": "Vtorrealba",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/102916964?v=4",
+      "profileUrl": "https://github.com/Vtorrealba",
+      "commits": 2
+    },
+    {
       "login": "Wheel-Smith",
       "avatarUrl": "https://avatars.githubusercontent.com/u/88578725?v=4",
       "profileUrl": "https://github.com/Wheel-Smith",
@@ -744,12 +756,6 @@
       "login": "bftanase",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1143666?v=4",
       "profileUrl": "https://github.com/bftanase",
-      "commits": 2
-    },
-    {
-      "login": "brianblakely",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/401422?v=4",
-      "profileUrl": "https://github.com/brianblakely",
       "commits": 2
     },
     {
@@ -885,6 +891,12 @@
       "commits": 2
     },
     {
+      "login": "outfoxxed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83010835?v=4",
+      "profileUrl": "https://github.com/outfoxxed",
+      "commits": 2
+    },
+    {
       "login": "patroza",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42661?v=4",
       "profileUrl": "https://github.com/patroza",
@@ -1008,6 +1020,12 @@
       "login": "AlwaysRead",
       "avatarUrl": "https://avatars.githubusercontent.com/u/120454422?v=4",
       "profileUrl": "https://github.com/AlwaysRead",
+      "commits": 1
+    },
+    {
+      "login": "AnthonyPoschen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2253299?v=4",
+      "profileUrl": "https://github.com/AnthonyPoschen",
       "commits": 1
     },
     {
@@ -1287,12 +1305,6 @@
       "commits": 1
     },
     {
-      "login": "SerrpentDagger",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36471448?v=4",
-      "profileUrl": "https://github.com/SerrpentDagger",
-      "commits": 1
-    },
-    {
       "login": "Shaps",
       "avatarUrl": "https://avatars.githubusercontent.com/u/201628?v=4",
       "profileUrl": "https://github.com/Shaps",
@@ -1308,6 +1320,12 @@
       "login": "SoAp9035",
       "avatarUrl": "https://avatars.githubusercontent.com/u/82338831?v=4",
       "profileUrl": "https://github.com/SoAp9035",
+      "commits": 1
+    },
+    {
+      "login": "Susensio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11474625?v=4",
+      "profileUrl": "https://github.com/Susensio",
       "commits": 1
     },
     {
@@ -1581,12 +1599,6 @@
       "commits": 1
     },
     {
-      "login": "codemonkey76",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3654457?v=4",
-      "profileUrl": "https://github.com/codemonkey76",
-      "commits": 1
-    },
-    {
       "login": "coolbotic",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19354426?v=4",
       "profileUrl": "https://github.com/coolbotic",
@@ -1716,6 +1728,12 @@
       "login": "eamonburns",
       "avatarUrl": "https://avatars.githubusercontent.com/u/116777388?v=4",
       "profileUrl": "https://github.com/eamonburns",
+      "commits": 1
+    },
+    {
+      "login": "edschofield",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78314?v=4",
+      "profileUrl": "https://github.com/edschofield",
       "commits": 1
     },
     {
@@ -2163,6 +2181,12 @@
       "commits": 1
     },
     {
+      "login": "maralcbr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/116872?v=4",
+      "profileUrl": "https://github.com/maralcbr",
+      "commits": 1
+    },
+    {
       "login": "marciobbj",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32399614?v=4",
       "profileUrl": "https://github.com/marciobbj",
@@ -2511,21 +2535,9 @@
       "commits": 1
     },
     {
-      "login": "scossar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2975917?v=4",
-      "profileUrl": "https://github.com/scossar",
-      "commits": 1
-    },
-    {
       "login": "selfcrypto",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134981912?v=4",
       "profileUrl": "https://github.com/selfcrypto",
-      "commits": 1
-    },
-    {
-      "login": "sergiojrdotnet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72770006?v=4",
-      "profileUrl": "https://github.com/sergiojrdotnet",
       "commits": 1
     },
     {
@@ -2535,21 +2547,9 @@
       "commits": 1
     },
     {
-      "login": "severin-richner",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79863534?v=4",
-      "profileUrl": "https://github.com/severin-richner",
-      "commits": 1
-    },
-    {
       "login": "shmall03",
       "avatarUrl": "https://avatars.githubusercontent.com/u/123131002?v=4",
       "profileUrl": "https://github.com/shmall03",
-      "commits": 1
-    },
-    {
-      "login": "shreyansh-malviya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/90462837?v=4",
-      "profileUrl": "https://github.com/shreyansh-malviya",
       "commits": 1
     },
     {
