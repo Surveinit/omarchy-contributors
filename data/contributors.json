@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-12T12:05:07Z",
+  "generatedAt": "2026-10-13T11:51:55Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4734
+      "commits": 4777
     },
     {
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 822
+      "commits": 824
     },
     {
       "login": "spencerbull",
@@ -573,6 +573,12 @@
       "commits": 3
     },
     {
+      "login": "outfoxxed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83010835?v=4",
+      "profileUrl": "https://github.com/outfoxxed",
+      "commits": 3
+    },
+    {
       "login": "rez1-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66778119?v=4",
       "profileUrl": "https://github.com/rez1-dev",
@@ -891,12 +897,6 @@
       "commits": 2
     },
     {
-      "login": "outfoxxed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/83010835?v=4",
-      "profileUrl": "https://github.com/outfoxxed",
-      "commits": 2
-    },
-    {
       "login": "patroza",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42661?v=4",
       "profileUrl": "https://github.com/patroza",
@@ -978,6 +978,12 @@
       "login": "wiehann",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132150?v=4",
       "profileUrl": "https://github.com/wiehann",
+      "commits": 2
+    },
+    {
+      "login": "yamz8",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108418515?v=4",
+      "profileUrl": "https://github.com/yamz8",
       "commits": 2
     },
     {
@@ -1278,12 +1284,6 @@
       "login": "Raj-Jagadeesh-A-P",
       "avatarUrl": "https://avatars.githubusercontent.com/u/199965893?v=4",
       "profileUrl": "https://github.com/Raj-Jagadeesh-A-P",
-      "commits": 1
-    },
-    {
-      "login": "Riddlerrr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/517356?v=4",
-      "profileUrl": "https://github.com/Riddlerrr",
       "commits": 1
     },
     {
