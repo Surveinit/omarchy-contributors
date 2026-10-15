@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-14T09:33:44Z",
+  "generatedAt": "2026-10-15T09:11:08Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4827
+      "commits": 4829
     },
     {
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 824
+      "commits": 825
     },
     {
       "login": "spencerbull",
@@ -30,7 +30,7 @@
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
-      "commits": 53
+      "commits": 54
     },
     {
       "login": "bjarneo",
@@ -369,6 +369,12 @@
       "commits": 4
     },
     {
+      "login": "outfoxxed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83010835?v=4",
+      "profileUrl": "https://github.com/outfoxxed",
+      "commits": 4
+    },
+    {
       "login": "pipetogrep",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62722976?v=4",
       "profileUrl": "https://github.com/pipetogrep",
@@ -531,6 +537,12 @@
       "commits": 3
     },
     {
+      "login": "manuaudio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/188948351?v=4",
+      "profileUrl": "https://github.com/manuaudio",
+      "commits": 3
+    },
+    {
       "login": "markbus-ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58405544?v=4",
       "profileUrl": "https://github.com/markbus-ai",
@@ -570,12 +582,6 @@
       "login": "okdas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4950477?v=4",
       "profileUrl": "https://github.com/okdas",
-      "commits": 3
-    },
-    {
-      "login": "outfoxxed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/83010835?v=4",
-      "profileUrl": "https://github.com/outfoxxed",
       "commits": 3
     },
     {
@@ -636,6 +642,12 @@
       "login": "ATeal",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5629145?v=4",
       "profileUrl": "https://github.com/ATeal",
+      "commits": 2
+    },
+    {
+      "login": "Bartok9",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/259807879?v=4",
+      "profileUrl": "https://github.com/Bartok9",
       "commits": 2
     },
     {
@@ -861,12 +873,6 @@
       "commits": 2
     },
     {
-      "login": "manuaudio",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/188948351?v=4",
-      "profileUrl": "https://github.com/manuaudio",
-      "commits": 2
-    },
-    {
       "login": "meirdick",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3604649?v=4",
       "profileUrl": "https://github.com/meirdick",
@@ -1038,12 +1044,6 @@
       "login": "AnthonyPoschen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2253299?v=4",
       "profileUrl": "https://github.com/AnthonyPoschen",
-      "commits": 1
-    },
-    {
-      "login": "Bartok9",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/259807879?v=4",
-      "profileUrl": "https://github.com/Bartok9",
       "commits": 1
     },
     {
