@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-17T08:36:49Z",
+  "generatedAt": "2026-10-18T08:53:09Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4829
+      "commits": 4831
     },
     {
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 826
+      "commits": 827
     },
     {
       "login": "spencerbull",
@@ -24,7 +24,7 @@
       "login": "AFOliveira",
       "avatarUrl": "https://avatars.githubusercontent.com/u/149520572?v=4",
       "profileUrl": "https://github.com/AFOliveira",
-      "commits": 63
+      "commits": 65
     },
     {
       "login": "omarchybot",
@@ -51,6 +51,12 @@
       "commits": 26
     },
     {
+      "login": "emirb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3412241?v=4",
+      "profileUrl": "https://github.com/emirb",
+      "commits": 22
+    },
+    {
       "login": "pomartel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26983?v=4",
       "profileUrl": "https://github.com/pomartel",
@@ -67,12 +73,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/77543049?v=4",
       "profileUrl": "https://github.com/tahayvr",
       "commits": 19
-    },
-    {
-      "login": "emirb",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3412241?v=4",
-      "profileUrl": "https://github.com/emirb",
-      "commits": 16
     },
     {
       "login": "alansikora",
@@ -156,6 +156,12 @@
       "login": "Adolanium",
       "avatarUrl": "https://avatars.githubusercontent.com/u/94890352?v=4",
       "profileUrl": "https://github.com/Adolanium",
+      "commits": 6
+    },
+    {
+      "login": "birkskyum",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74932975?v=4",
+      "profileUrl": "https://github.com/birkskyum",
       "commits": 6
     },
     {
@@ -783,12 +789,6 @@
       "commits": 2
     },
     {
-      "login": "birkskyum",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74932975?v=4",
-      "profileUrl": "https://github.com/birkskyum",
-      "commits": 2
-    },
-    {
       "login": "bprendie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72560435?v=4",
       "profileUrl": "https://github.com/bprendie",
@@ -966,12 +966,6 @@
       "login": "shrijit37",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62253877?v=4",
       "profileUrl": "https://github.com/shrijit37",
-      "commits": 2
-    },
-    {
-      "login": "smola",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23248?v=4",
-      "profileUrl": "https://github.com/smola",
       "commits": 2
     },
     {
@@ -1344,6 +1338,12 @@
       "login": "SoAp9035",
       "avatarUrl": "https://avatars.githubusercontent.com/u/82338831?v=4",
       "profileUrl": "https://github.com/SoAp9035",
+      "commits": 1
+    },
+    {
+      "login": "Stegi56",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91616550?v=4",
+      "profileUrl": "https://github.com/Stegi56",
       "commits": 1
     },
     {
@@ -2481,6 +2481,12 @@
       "commits": 1
     },
     {
+      "login": "rip747",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23683?v=4",
+      "profileUrl": "https://github.com/rip747",
+      "commits": 1
+    },
+    {
       "login": "rizkyfauziilmi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/104153142?v=4",
       "profileUrl": "https://github.com/rizkyfauziilmi",
@@ -2586,6 +2592,12 @@
       "login": "spitfire05",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5302324?v=4",
       "profileUrl": "https://github.com/spitfire05",
+      "commits": 1
+    },
+    {
+      "login": "stoddart",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106248?v=4",
+      "profileUrl": "https://github.com/stoddart",
       "commits": 1
     },
     {
