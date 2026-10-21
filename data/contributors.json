@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-20T09:28:21Z",
+  "generatedAt": "2026-10-21T09:24:06Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4834
+      "commits": 4835
     },
     {
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 916
+      "commits": 919
     },
     {
       "login": "spencerbull",
@@ -30,7 +30,7 @@
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
-      "commits": 58
+      "commits": 62
     },
     {
       "login": "bjarneo",
@@ -54,7 +54,13 @@
       "login": "emirb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3412241?v=4",
       "profileUrl": "https://github.com/emirb",
-      "commits": 24
+      "commits": 26
+    },
+    {
+      "login": "scottjones",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/444693?v=4",
+      "profileUrl": "https://github.com/scottjones",
+      "commits": 22
     },
     {
       "login": "pomartel",
@@ -78,12 +84,6 @@
       "login": "alansikora",
       "avatarUrl": "https://avatars.githubusercontent.com/u/575138?v=4",
       "profileUrl": "https://github.com/alansikora",
-      "commits": 12
-    },
-    {
-      "login": "scottjones",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/444693?v=4",
-      "profileUrl": "https://github.com/scottjones",
       "commits": 12
     },
     {
@@ -522,6 +522,12 @@
       "login": "guidovicino",
       "avatarUrl": "https://avatars.githubusercontent.com/u/988029?v=4",
       "profileUrl": "https://github.com/guidovicino",
+      "commits": 3
+    },
+    {
+      "login": "imanubdesigner",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/146331681?v=4",
+      "profileUrl": "https://github.com/imanubdesigner",
       "commits": 3
     },
     {
