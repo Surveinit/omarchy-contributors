@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:26:29Z",
+  "generatedAt": "2026-11-06T12:10:33Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
@@ -12,7 +12,7 @@
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 946
+      "commits": 948
     },
     {
       "login": "omarchybot",
@@ -552,6 +552,12 @@
       "login": "guidovicino",
       "avatarUrl": "https://avatars.githubusercontent.com/u/988029?v=4",
       "profileUrl": "https://github.com/guidovicino",
+      "commits": 3
+    },
+    {
+      "login": "imanubdesigner",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/146331681?v=4",
+      "profileUrl": "https://github.com/imanubdesigner",
       "commits": 3
     },
     {
