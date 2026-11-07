@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T12:10:33Z",
+  "generatedAt": "2026-11-07T11:07:28Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 4971
+      "commits": 4972
     },
     {
       "login": "ryanrhughes",
@@ -18,7 +18,7 @@
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
-      "commits": 167
+      "commits": 169
     },
     {
       "login": "spencerbull",
@@ -81,6 +81,12 @@
       "commits": 19
     },
     {
+      "login": "birkskyum",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74932975?v=4",
+      "profileUrl": "https://github.com/birkskyum",
+      "commits": 14
+    },
+    {
       "login": "alansikora",
       "avatarUrl": "https://avatars.githubusercontent.com/u/575138?v=4",
       "profileUrl": "https://github.com/alansikora",
@@ -97,12 +103,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/7087?v=4",
       "profileUrl": "https://github.com/xdanger",
       "commits": 12
-    },
-    {
-      "login": "birkskyum",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74932975?v=4",
-      "profileUrl": "https://github.com/birkskyum",
-      "commits": 11
     },
     {
       "login": "manuaudio",
