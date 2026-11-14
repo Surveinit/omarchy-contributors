@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-11-13T12:17:53Z",
+  "generatedAt": "2026-11-14T11:33:11Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 5138
+      "commits": 5141
     },
     {
       "login": "ryanrhughes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1630358?v=4",
       "profileUrl": "https://github.com/ryanrhughes",
-      "commits": 949
+      "commits": 950
     },
     {
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
-      "commits": 206
+      "commits": 210
     },
     {
       "login": "spencerbull",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7035687?v=4",
       "profileUrl": "https://github.com/spencerbull",
-      "commits": 116
+      "commits": 118
     },
     {
       "login": "AFOliveira",
