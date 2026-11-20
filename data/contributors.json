@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T13:19:48Z",
+  "generatedAt": "2026-11-20T13:00:17Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 5242
+      "commits": 5258
     },
     {
       "login": "ryanrhughes",
@@ -18,7 +18,7 @@
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
-      "commits": 251
+      "commits": 257
     },
     {
       "login": "spencerbull",
@@ -27,16 +27,16 @@
       "commits": 118
     },
     {
+      "login": "emirb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3412241?v=4",
+      "profileUrl": "https://github.com/emirb",
+      "commits": 67
+    },
+    {
       "login": "AFOliveira",
       "avatarUrl": "https://avatars.githubusercontent.com/u/149520572?v=4",
       "profileUrl": "https://github.com/AFOliveira",
       "commits": 66
-    },
-    {
-      "login": "emirb",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3412241?v=4",
-      "profileUrl": "https://github.com/emirb",
-      "commits": 65
     },
     {
       "login": "bjarneo",
@@ -54,7 +54,7 @@
       "login": "birkskyum",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74932975?v=4",
       "profileUrl": "https://github.com/birkskyum",
-      "commits": 44
+      "commits": 46
     },
     {
       "login": "ErikMelton",
@@ -210,6 +210,12 @@
       "login": "husamemadH",
       "avatarUrl": "https://avatars.githubusercontent.com/u/176228199?v=4",
       "profileUrl": "https://github.com/husamemadH",
+      "commits": 6
+    },
+    {
+      "login": "jasasonc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78748619?v=4",
+      "profileUrl": "https://github.com/jasasonc",
       "commits": 6
     },
     {
@@ -417,12 +423,6 @@
       "commits": 4
     },
     {
-      "login": "jasasonc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78748619?v=4",
-      "profileUrl": "https://github.com/jasasonc",
-      "commits": 4
-    },
-    {
       "login": "khpark43",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72776061?v=4",
       "profileUrl": "https://github.com/khpark43",
@@ -481,6 +481,12 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/16487352?v=4",
       "profileUrl": "https://github.com/zihaomu",
       "commits": 4
+    },
+    {
+      "login": "AnPod",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1073516?v=4",
+      "profileUrl": "https://github.com/AnPod",
+      "commits": 3
     },
     {
       "login": "CantC0unt",
@@ -738,12 +744,6 @@
       "login": "ATeal",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5629145?v=4",
       "profileUrl": "https://github.com/ATeal",
-      "commits": 2
-    },
-    {
-      "login": "AnPod",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1073516?v=4",
-      "profileUrl": "https://github.com/AnPod",
       "commits": 2
     },
     {
@@ -1098,6 +1098,12 @@
       "login": "steelcityappliance",
       "avatarUrl": "https://avatars.githubusercontent.com/u/282322642?v=4",
       "profileUrl": "https://github.com/steelcityappliance",
+      "commits": 2
+    },
+    {
+      "login": "stevederico",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/424734?v=4",
+      "profileUrl": "https://github.com/stevederico",
       "commits": 2
     },
     {
@@ -1881,6 +1887,12 @@
       "commits": 1
     },
     {
+      "login": "diogochaves",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6130?v=4",
+      "profileUrl": "https://github.com/diogochaves",
+      "commits": 1
+    },
+    {
       "login": "dmkenney",
       "avatarUrl": "https://avatars.githubusercontent.com/u/171688385?v=4",
       "profileUrl": "https://github.com/dmkenney",
@@ -2112,12 +2124,6 @@
       "login": "houz42",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4497443?v=4",
       "profileUrl": "https://github.com/houz42",
-      "commits": 1
-    },
-    {
-      "login": "iamobservable",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123117871?v=4",
-      "profileUrl": "https://github.com/iamobservable",
       "commits": 1
     },
     {
