@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T12:38:47Z",
+  "generatedAt": "2026-11-23T14:46:21Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 5294
+      "commits": 5355
     },
     {
       "login": "ryanrhughes",
@@ -18,7 +18,7 @@
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
-      "commits": 277
+      "commits": 295
     },
     {
       "login": "spencerbull",
@@ -48,7 +48,7 @@
       "login": "birkskyum",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74932975?v=4",
       "profileUrl": "https://github.com/birkskyum",
-      "commits": 49
+      "commits": 51
     },
     {
       "login": "acrogenesis",
@@ -333,6 +333,12 @@
       "commits": 4
     },
     {
+      "login": "AnPod",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1073516?v=4",
+      "profileUrl": "https://github.com/AnPod",
+      "commits": 4
+    },
+    {
       "login": "DrInfinite",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74095696?v=4",
       "profileUrl": "https://github.com/DrInfinite",
@@ -402,6 +408,12 @@
       "login": "felixzsh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52932708?v=4",
       "profileUrl": "https://github.com/felixzsh",
+      "commits": 4
+    },
+    {
+      "login": "fidecastro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18445184?v=4",
+      "profileUrl": "https://github.com/fidecastro",
       "commits": 4
     },
     {
@@ -489,12 +501,6 @@
       "commits": 4
     },
     {
-      "login": "AnPod",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1073516?v=4",
-      "profileUrl": "https://github.com/AnPod",
-      "commits": 3
-    },
-    {
       "login": "CantC0unt",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91726330?v=4",
       "profileUrl": "https://github.com/CantC0unt",
@@ -570,12 +576,6 @@
       "login": "djordje",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1223357?v=4",
       "profileUrl": "https://github.com/djordje",
-      "commits": 3
-    },
-    {
-      "login": "fidecastro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18445184?v=4",
-      "profileUrl": "https://github.com/fidecastro",
       "commits": 3
     },
     {
@@ -1272,6 +1272,12 @@
       "login": "EFrMG",
       "avatarUrl": "https://avatars.githubusercontent.com/u/204592755?v=4",
       "profileUrl": "https://github.com/EFrMG",
+      "commits": 1
+    },
+    {
+      "login": "FoxesRCool1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/158400752?v=4",
+      "profileUrl": "https://github.com/FoxesRCool1",
       "commits": 1
     },
     {
@@ -2517,12 +2523,6 @@
       "commits": 1
     },
     {
-      "login": "nchudleigh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5580824?v=4",
-      "profileUrl": "https://github.com/nchudleigh",
-      "commits": 1
-    },
-    {
       "login": "ncr",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5796?v=4",
       "profileUrl": "https://github.com/ncr",
@@ -2532,12 +2532,6 @@
       "login": "neurapy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/153431701?v=4",
       "profileUrl": "https://github.com/neurapy",
-      "commits": 1
-    },
-    {
-      "login": "nicholaschiang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20798889?v=4",
-      "profileUrl": "https://github.com/nicholaschiang",
       "commits": 1
     },
     {
