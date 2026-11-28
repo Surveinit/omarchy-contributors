@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T13:56:08Z",
+  "generatedAt": "2026-11-28T13:07:48Z",
   "repository": "basecamp/omarchy",
   "contributors": [
     {
       "login": "dhh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2741?v=4",
       "profileUrl": "https://github.com/dhh",
-      "commits": 5491
+      "commits": 5531
     },
     {
       "login": "ryanrhughes",
@@ -18,7 +18,7 @@
       "login": "omarchybot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317366263?v=4",
       "profileUrl": "https://github.com/omarchybot",
-      "commits": 334
+      "commits": 350
     },
     {
       "login": "spencerbull",
@@ -30,7 +30,7 @@
       "login": "emirb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3412241?v=4",
       "profileUrl": "https://github.com/emirb",
-      "commits": 85
+      "commits": 102
     },
     {
       "login": "AFOliveira",
@@ -159,6 +159,12 @@
       "commits": 8
     },
     {
+      "login": "jasasonc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78748619?v=4",
+      "profileUrl": "https://github.com/jasasonc",
+      "commits": 8
+    },
+    {
       "login": "robzolkos",
       "avatarUrl": "https://avatars.githubusercontent.com/u/290616?v=4",
       "profileUrl": "https://github.com/robzolkos",
@@ -175,12 +181,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/46505685?v=4",
       "profileUrl": "https://github.com/timohubois",
       "commits": 8
-    },
-    {
-      "login": "jasasonc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78748619?v=4",
-      "profileUrl": "https://github.com/jasasonc",
-      "commits": 7
     },
     {
       "login": "jdvmi00",
@@ -240,6 +240,12 @@
       "login": "mdisec",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4004716?v=4",
       "profileUrl": "https://github.com/mdisec",
+      "commits": 6
+    },
+    {
+      "login": "outfoxxed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83010835?v=4",
+      "profileUrl": "https://github.com/outfoxxed",
       "commits": 6
     },
     {
@@ -306,12 +312,6 @@
       "login": "mijuny",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35042711?v=4",
       "profileUrl": "https://github.com/mijuny",
-      "commits": 5
-    },
-    {
-      "login": "outfoxxed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/83010835?v=4",
-      "profileUrl": "https://github.com/outfoxxed",
       "commits": 5
     },
     {
